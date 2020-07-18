@@ -34,7 +34,7 @@ We combined VIA's Civtech datasets and census data to create maps combining VIA 
 ### Access Our [Notebooks](https://github.com/get-on-the-bus/via-project)
 
 
-### View Our [Process](https://get-on-the-bus.github.io/process)
+### Understand Our [Process](https://get-on-the-bus.github.io/process)
 
 ### Use Our [Data Sources](https://get-on-the-bus.github.io/data)
 
