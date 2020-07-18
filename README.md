@@ -29,8 +29,6 @@ We combined VIA's Civtech datasets and census data to create maps combining VIA 
 
 ## Check out Our [Interactive Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1Qzch2ho0XXCnuRHGbGskqYb21I6T5rfH&ll=29.39511534588639%2C-98.47608225&z=10)
 
-<iframe src="https://public.tableau.com/profile/get.on.the.bus#!/vizhome/Bexar_census_maps_15950347850730/EarnLess200FPL:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
-
 
 ## Access Our [Notebooks](https://github.com/get-on-the-bus)
 
