@@ -1,4 +1,4 @@
-# You are Welcome to Get On the Bus
+# You are Welcome to Get on the Bus
 
 Team Get on the Bus is comprised of a diverse group of San Antonio locals who share the belief that public transportation is an important part of the infrastructure of a vibrant and growing city. 
 
