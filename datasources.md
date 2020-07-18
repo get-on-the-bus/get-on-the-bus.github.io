@@ -4,7 +4,6 @@
 
 # American Community Survey Data Sources
 
-## Disclaimer
 **This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.**
 
 - [B01001 - Sex by Age](https://api.census.gov/data/2018/acs/acs5?get=B01001_001E,B01001_002E,B01001_007E,B01001_008E,B01001_009E,B01001_010E,B01001_011E,B01001_012E,B01001_013E,B01001_014E,B01001_015E,B01001_016E,B01001_017E,B01001_018E,B01001_019E,B01001_026E,B01001_031E,B01001_032E,B01001_033E,B01001_034E,B01001_035E,B01001_036E,B01001_037E,B01001_038E,B01001_039E,B01001_040E,B01001_041E,B01001_042E,B01001_043E&for=block%20group:*&in=state:48&in=county:029&in=tract:*)
