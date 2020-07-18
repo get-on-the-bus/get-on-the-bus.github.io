@@ -12,30 +12,30 @@ We combined VIA's Civtech datasets and census data to create maps combining VIA 
 
 ## <font color=red>To learn more, check out our supporting materials below.</font>
 
-## Our Project Goals
+### Our Project Goals
 
 [![Get on the Bus Datathon Pitch](https://res.cloudinary.com/marcomontalbano/image/upload/v1595068944/video_to_markdown/images/youtube--TX6S2TNnaPo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TX6S2TNnaPo "Get on the Bus Datathon Pitch")
 
-## Our Datathon Presentation
+### Our Datathon Presentation
 
 [![Get on the Bus Datathon Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1595069191/video_to_markdown/images/youtube--OhcoOVfxQJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OhcoOVfxQJg "Get on the Bus Datathon Presentation")
 
-## Learn More About [VIA](https://get-on-the-bus.github.io/via_info.pdf)
+### Learn More About [VIA](https://get-on-the-bus.github.io/via_info.pdf)
 
 
-## Meet Our [Team](https://get-on-the-bus.github.io/meet-our-team)
+### Meet Our [Team](https://get-on-the-bus.github.io/meet-our-team)
 
-## Check out Our [Tableau Maps](https://public.tableau.com/profile/get.on.the.bus#!/vizhome/Bexar_census_maps_15950347850730/EarnLess200FPL)
+### Check out Our [Tableau Maps](https://public.tableau.com/profile/get.on.the.bus#!/vizhome/Bexar_census_maps_15950347850730/EarnLess200FPL)
 
-## Check out Our [Interactive Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1Qzch2ho0XXCnuRHGbGskqYb21I6T5rfH&ll=29.39511534588639%2C-98.47608225&z=10)
-
-
-## Access Our [Notebooks](https://github.com/get-on-the-bus)
+### Check out Our [Interactive Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1Qzch2ho0XXCnuRHGbGskqYb21I6T5rfH&ll=29.39511534588639%2C-98.47608225&z=10)
 
 
-## Our Data [Dictionary]([here](https://github.com/data-dictionary))
+### Access Our [Notebooks](https://github.com/get-on-the-bus)
 
-## Our Process
+
+### Our Data [Dictionary]([here](https://github.com/data-dictionary))
+
+### Our Process
 
 
 
