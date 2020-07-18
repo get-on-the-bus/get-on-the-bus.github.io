@@ -20,11 +20,16 @@
 
 [![Get on the Bus Datathon Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1595069191/video_to_markdown/images/youtube--OhcoOVfxQJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OhcoOVfxQJg "Get on the Bus Datathon Presentation")
 
-## Learn About [VIA](https://get-on-the-bus.github.io/via_info.pdf)
+## Learn More About [VIA](https://get-on-the-bus.github.io/via_info.pdf)
 
 
 ## Meet Our [Team](https://get-on-the-bus.github.io/meet-our-team)
 
+## Check out Our [Tableau Maps](https://public.tableau.com/profile/get.on.the.bus#!/vizhome/Bexar_census_maps_15950347850730/EarnLess200FPL)
+
+## Check out Our [Interactive Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1Qzch2ho0XXCnuRHGbGskqYb21I6T5rfH&ll=29.39511534588639%2C-98.47608225&z=10)
+
+<iframe src="https://public.tableau.com/profile/get.on.the.bus#!/vizhome/Bexar_census_maps_15950347850730/EarnLess200FPL:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
 
 
 ## Access Our [Notebooks](https://github.com/get-on-the-bus)
