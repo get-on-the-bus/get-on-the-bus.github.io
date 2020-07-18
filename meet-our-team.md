@@ -1,5 +1,8 @@
 # Meet Our Team
 
+We are a diverse group of San Antonio locals who share the belief that public transportation is an important part of the infrastructure of a vibrant and growing city. 
+
+
 ![Misty Garcia](https://s3.amazonaws.com/alumni.codeup.com/Misty.jpg)
 
 Misty Garcia has a background in social justice and electrical engineering. She works at CaptureRX as a data management analyst.
