@@ -37,6 +37,6 @@ The [via 201909](https://github.com/get-on-the-bus/via-project/tree/master/resou
 
 VIA overwrites their open data regularly with current information, so the datasets publicly available during the 2020 Datathon show the limited schedule being run during the Covid-19 slowdown. As a partner agency of the competition, VIA could not, would not, *and did not* provide any team information that wasn't already presently publicly available. 
 
-This data was available to us because of a fortuitous coincidence. One of our members happened to download this dataset in September while exploring open data sets available for the San Antonio area. This data was retained because 'it might be useful sometime'.
+This data was available to us because of a fortuitous coincidence. One of our members happened to download this dataset in September while exploring open datasets available for the San Antonio area. This data was retained because 'it might be useful sometime'.
 
-The team also retained the comparable datesets as it existed on [April 22, 2020](https://github.com/get-on-the-bus/via-project/tree/master/resource_files/via_20204), and will be using this and future updates in future analysis about the impact of Covid-19 and the inevitable eventual recovery.
+The team also retained the comparable datesets as they existed on [April 22, 2020](https://github.com/get-on-the-bus/via-project/tree/master/resource_files/via_20204), and will be using this and future updates in future analysis about the impact of Covid-19 and the inevitable eventual recovery.
