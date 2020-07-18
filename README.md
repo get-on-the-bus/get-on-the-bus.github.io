@@ -4,7 +4,11 @@
 
 ## Our Project Goals
 
-[![Get on the Bus](https://res.cloudinary.com/marcomontalbano/image/upload/v1594950318/video_to_markdown/images/youtube--25DkJB8fNB0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=25DkJB8fNB0&feature=youtu.be "Get on the Bus")
+[![Get on the Bus Datathon Pitch](https://res.cloudinary.com/marcomontalbano/image/upload/v1595068944/video_to_markdown/images/youtube--TX6S2TNnaPo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TX6S2TNnaPo "Get on the Bus Datathon Pitch")
+
+## Our Datathon Presentation
+
+[![Get on the Bus Datathon Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1595069191/video_to_markdown/images/youtube--OhcoOVfxQJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/OhcoOVfxQJg "Get on the Bus Datathon Presentation")
 
 ## Learn About [VIA](https://get-on-the-bus.github.io/via_info.pdf)
 
