@@ -10,11 +10,12 @@ Our benchmarks for success in public transit include increases in ridership, sol
 
 We combined VIA's Civtech datasets and census data to create maps combining VIA bus service performance and accessibility with racial and socio-economic profiles.
 
-### <font color="red">To learn more, check out our supporting materials below.</font>
+## <font color="red">Check out our resources.</font>
 
 ### Our Project Goals
 
 [![Get on the Bus Datathon Pitch](https://res.cloudinary.com/marcomontalbano/image/upload/v1595068944/video_to_markdown/images/youtube--TX6S2TNnaPo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TX6S2TNnaPo "Get on the Bus Datathon Pitch")
+
 
 ### Our Datathon Presentation
 
